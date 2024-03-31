@@ -1,0 +1,7 @@
+langchain_community
+langchain_text_splitters
+chromadb
+langchain_google_vertexai
+langchain
+unstructured
+unstructured[md]
